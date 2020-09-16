@@ -1,0 +1,12 @@
+html {
+  font-size: 13px;
+}
+html,
+body {
+  margin: 0;
+}
+.App {
+  font-family: "Work Sans";
+
+  line-height: 1.4;
+}
